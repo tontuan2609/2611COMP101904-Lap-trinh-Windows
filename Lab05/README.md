@@ -19,7 +19,9 @@ Dự án đã hoàn thiện toàn bộ các tiêu chí đánh giá của bài La
 - Các chức năng kiểm tra lỗi nhập liệu và hiển thị kết quả phiếu đăng ký hoạt động đúng thiết kế.
 ### 2.1. Trạng thái khởi tạo
 Giao diện khi vừa mở ứng dụng, dữ liệu khóa học và các thiết lập mặc định đã được nạp sẵn:
-![Giao diện khởi tạo](form_load.png"Giao diện khởi tạo")
+
+![Giao diện khởi tạo](form_load.png "Giao diện khởi tạo")
 ### 2.2. Kết quả xử lý đăng ký
 Giao diện hiển thị phiếu đăng ký sau khi người dùng điền đầy đủ thông tin hợp lệ và phần mềm tính toán tổng tiền thành công:
-![Giao diện kết quả](form_result.png"Giao diện kết quả")
+
+![Giao diện kết quả](form_result.png "Giao diện kết quả")

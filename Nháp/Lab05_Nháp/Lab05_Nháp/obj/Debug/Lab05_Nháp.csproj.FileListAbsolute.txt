@@ -1,0 +1,10 @@
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\bin\Debug\Lab05_Nháp.exe.config
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\bin\Debug\Lab05_Nháp.exe
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\bin\Debug\Lab05_Nháp.pdb
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\obj\Debug\Lab05_Nháp.csproj.AssemblyReference.cache
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\obj\Debug\Lab05_Nháp.frmDangKyKhoaHoc.resources
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\obj\Debug\Lab05_Nháp.Properties.Resources.resources
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\obj\Debug\Lab05_Nháp.csproj.GenerateResource.cache
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\obj\Debug\Lab05_Nháp.csproj.CoreCompileInputs.cache
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\obj\Debug\Lab05_Nháp.exe
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Nháp\Lab05_Nháp\Lab05_Nháp\obj\Debug\Lab05_Nháp.pdb

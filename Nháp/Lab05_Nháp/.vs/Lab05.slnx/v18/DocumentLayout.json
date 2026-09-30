@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45F9D196-D3FA-4C0C-8B3B-5B753A9AC087}|Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p.csproj|C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\lab05_nh\u00E1p\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9D196-D3FA-4C0C-8B3B-5B753A9AC087}|Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p.csproj|solutionrelative:lab05_nh\u00E1p\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F9D196-D3FA-4C0C-8B3B-5B753A9AC087}|Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p.csproj|c:\\users\\ton tuan\\documents\\github\\2611comp101904-lap-trinh-windows\\nh\u00E1p\\lab05_nh\u00E1p\\lab05_nh\u00E1p\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9D196-D3FA-4C0C-8B3B-5B753A9AC087}|Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p.csproj|solutionrelative:lab05_nh\u00E1p\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F9D196-D3FA-4C0C-8B3B-5B753A9AC087}|Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p.csproj|C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\lab05_nh\u00E1p\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45F9D196-D3FA-4C0C-8B3B-5B753A9AC087}|Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p.csproj|solutionrelative:lab05_nh\u00E1p\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab05_Nh\u00E1p\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab05_Nh\u00E1p\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T16:41:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab05_Nh\u00E1p\\Form1.cs",
+              "ToolTip": "C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p\\Form1.cs",
+              "RelativeToolTip": "Lab05_Nh\u00E1p\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T16:41:31.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab05_Nh\u00E1p\\Form1.cs",
+              "ToolTip": "C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Nh\u00E1p\\Lab05_Nh\u00E1p\\Lab05_Nh\u00E1p\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab05_Nh\u00E1p\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T16:40:03.044Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

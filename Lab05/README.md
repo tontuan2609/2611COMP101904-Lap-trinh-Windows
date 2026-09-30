@@ -17,7 +17,7 @@ Dự án đã hoàn thiện toàn bộ các tiêu chí đánh giá của bài La
 - Khởi tạo thành công project và giao diện hoạt động ổn định.
 - Logic tính toán học phí phản hồi chính xác theo thời gian thực.
 - Các chức năng kiểm tra lỗi nhập liệu và hiển thị kết quả phiếu đăng ký hoạt động đúng thiết kế.
-### 2.1. Trạng thái khởi tạo (Form Load)
+### 2.1. Trạng thái khởi tạo
 Giao diện khi vừa mở ứng dụng, dữ liệu khóa học và các thiết lập mặc định đã được nạp sẵn:
 ![Giao diện khởi tạo](form_load.png)
 ### 2.2. Kết quả xử lý đăng ký

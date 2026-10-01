@@ -112,7 +112,7 @@ namespace Lab05
             else
                 t = "Trực tiếp";
             string u = "THÔNG TIN ĐĂNG KÝ KHÓA HỌC\n";
-            u += "------------------------------\n";
+            u += "\n";
             u += $"Họ tên học viên: {txtHoTen.Text.Trim()}\n";
             u += $"Số điện thoại: {txtSoDienThoai.Text.Trim()}\n";
             u += $"Ngày sinh: {dtpNgaySinh.Value:dd/MM/yyyy}\n";

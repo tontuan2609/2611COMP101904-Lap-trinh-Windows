@@ -1,8 +1,12 @@
 # 2611COMP101904 - Lập trình Windows - Lab05
+
 ## MSSV: 47.01.104.229
 ## Họ và tên: Tôn Thất Tuấn
 ## Lớp: 49.01.CNTT.B
 ## Nhóm: 11
+
+1. Giới thiệu dự án
+Dự án CourseRegistrationApp là một ứng dụng WinForms cơ bản được xây dựng để mô phỏng quá trình đăng ký khóa học. Ứng dụng tập trung vào việc thiết kế giao diện bằng Form Designer, sử dụng các control cơ bản, xử lý sự kiện người dùng và kiểm tra dữ liệu đầu vào trước khi hiển thị kết quả.
 ## 1. Mô tả bài tập
 Dự án `CourseRegistrationApp` là một ứng dụng WinForms được xây dựng bằng C# nhằm mô phỏng nghiệp vụ đăng ký khóa học. Ứng dụng tập trung vào việc thiết kế giao diện bằng Form Designer và xử lý dữ liệu trực tiếp trên Form, chưa kết nối với cơ sở dữ liệu. 
 **Các chức năng và yêu cầu kỹ thuật chính:**

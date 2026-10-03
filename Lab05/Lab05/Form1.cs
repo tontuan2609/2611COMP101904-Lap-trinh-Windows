@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace Lab05
 {
-    public partial class frmDangKyKhoaHoc : Form
+    public partial class Form1 : Form
     {
         private int HocPhi(string s)
         {
@@ -28,11 +28,11 @@ namespace Lab05
 
         private void TongTien()
         {
-            int tongTien = HocPhi(cboKhoaHoc.Text) * (int)numSoThang.Value;
-            lblTongTien.Text = $"{tongTien:N0} VNĐ";
+            int n = HocPhi(cboKhoaHoc.Text) * (int)numSoThang.Value;
+            lblTongTien.Text = $"{n:N0} VNĐ";
         }
 
-        public frmDangKyKhoaHoc()
+        public Form1()
         {
             InitializeComponent();
         }
@@ -106,22 +106,22 @@ namespace Lab05
                 s = "Có";
             else
                 s = "Không";
-            string t;
+            string x;
             if (radOnline.Checked)
-                t = "Online";
+                x = "Online";
             else
-                t = "Trực tiếp";
-            string u = "THÔNG TIN ĐĂNG KÝ KHÓA HỌC\n";
-            u += "\n";
-            u += $"Họ tên học viên: {txtHoTen.Text.Trim()}\n";
-            u += $"Số điện thoại: {txtSoDienThoai.Text.Trim()}\n";
-            u += $"Ngày sinh: {dtpNgaySinh.Value:dd/MM/yyyy}\n";
-            u += $"Nhận email thông báo: {s}\n";
-            u += $"Khóa học: {cboKhoaHoc.Text}\n";
-            u += $"Hình thức: {t}\n";
-            u += $"Số tháng: {numSoThang.Value}\n";
-            u += $"Tổng học phí: {lblTongTien.Text}\n";
-            MessageBox.Show(u, "Phiếu đăng ký", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                x = "Trực tiếp";
+            string t = "THÔNG TIN ĐĂNG KÝ KHÓA HỌC\n";
+            t += "\n";
+            t += $"Họ tên học viên: {txtHoTen.Text.Trim()}\n";
+            t += $"Số điện thoại: {txtSoDienThoai.Text.Trim()}\n";
+            t += $"Ngày sinh: {dtpNgaySinh.Value:dd/MM/yyyy}\n";
+            t += $"Nhận email thông báo: {s}\n";
+            t += $"Khóa học: {cboKhoaHoc.Text}\n";
+            t += $"Hình thức: {x}\n";
+            t += $"Số tháng: {numSoThang.Value}\n";
+            t += $"Tổng học phí: {lblTongTien.Text}\n";
+            MessageBox.Show(t, "Phiếu đăng ký", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         // Nút Làm mới

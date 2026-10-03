@@ -1,0 +1,10 @@
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\TON TUAN\Documents\GitHub\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01\obj\Debug\Lab01.pdb

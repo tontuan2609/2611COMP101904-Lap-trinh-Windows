@@ -1,6 +1,6 @@
 ﻿namespace Lab05
 {
-    partial class frmDangKyKhoaHoc
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -266,7 +266,7 @@
             this.btnThoat.UseVisualStyleBackColor = true;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
-            // frmDangKyKhoaHoc
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -278,7 +278,7 @@
             this.Controls.Add(this.groupBox1);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "frmDangKyKhoaHoc";
+            this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ĐĂNG KÝ KHÓA HỌC";
             this.Load += new System.EventHandler(this.frmDangKyKhoaHoc_Load);

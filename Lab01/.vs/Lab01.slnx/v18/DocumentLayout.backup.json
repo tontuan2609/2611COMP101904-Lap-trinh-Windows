@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8EA2B580-4EFC-4961-BF30-9349B5BC2C0A}|Lab01\\Lab01.csproj|solutionrelative:lab01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EA2B580-4EFC-4961-BF30-9349B5BC2C0A}|Lab01\\Lab01.csproj|c:\\users\\ton tuan\\documents\\github\\2611comp101904-lap-trinh-windows\\lab01\\lab01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8EA2B580-4EFC-4961-BF30-9349B5BC2C0A}|Lab01\\Lab01.csproj|C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Lab01\\lab01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EA2B580-4EFC-4961-BF30-9349B5BC2C0A}|Lab01\\Lab01.csproj|solutionrelative:lab01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\TON TUAN\\Documents\\GitHub\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\Form1.cs [Design]",
               "RelativeToolTip": "Lab01\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T10:39:39.651Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-03T10:39:39.651Z"
             }
           ]
         }

@@ -35,6 +35,7 @@ namespace Lab01
         // Nút Hiển thị kiểm tra dữ liệu và hiển thị thông tin cá nhân
         private void btnHienThi_Click(object sender, EventArgs e)
         {
+            // Họ tên không được rỗng
             if (string.IsNullOrEmpty(txtHoTen.Text))
             {
                 MessageBox.Show("Vui lòng nhập họ tên!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -42,13 +43,30 @@ namespace Lab01
                 return;
             }
 
+            // Năm sinh không được rỗng và phải là số nguyên
             if (string.IsNullOrEmpty(txtNamSinh.Text))
             {
                 MessageBox.Show("Vui lòng nhập năm sinh!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 txtNamSinh.Focus();
                 return;
             }
+            int namSinh;
+            if (!int.TryParse(txtNamSinh.Text, out namSinh))
+            {
+                MessageBox.Show("Năm sinh phải là số nguyên!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtNamSinh.Focus();
+                return;
+            }
 
+            // Năm sinh phải nằm trong khoảng từ 1900 đến năm hiện tại
+            if (namSinh < 1900 || namSinh > DateTime.Now.Year)
+            {
+                MessageBox.Show($"Năm sinh phải nằm trong khoảng từ 1900 đến {DateTime.Now.Year}!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtNamSinh.Focus();
+                return;
+            }
+
+            // Email không được rỗng
             if (string.IsNullOrEmpty(txtEmail.Text))
             {
                 MessageBox.Show("Vui lòng nhập email!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -56,18 +74,21 @@ namespace Lab01
                 return;
             }
 
+            // Phải chọn khoa hoặc lớp
             if (cboKhoa.SelectedIndex == -1)
             {
                 MessageBox.Show("Vui lòng chọn khoa/lớp!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
-            if (radNam.Checked == false && radNu.Checked == false)
+            // Phải chọn giới tính
+            if (!radNam.Checked && !radNu.Checked)
             {
                 MessageBox.Show("Vui lòng chọn giới tính!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
+            // Có thể hiển thị kết quả bằng MessageBox hoặc bằng một Label/TextBox trên Form
             string s = "";
             if (radNam.Checked)
             {
@@ -77,13 +98,12 @@ namespace Lab01
             {
                 s = "Nữ";
             }
-
             string x = "THÔNG TIN SINH VIÊN\r\n\r\n";
             x += $"Họ tên sinh viên: {txtHoTen.Text}\r\n";
             x += $"Năm sinh: {txtNamSinh.Text}\r\n";
             x += $"Email: {txtEmail.Text}\r\n";
             x += $"Khoa/Lớp: {cboKhoa.SelectedItem}\r\n";
-            x += $"Giới tính: {s}\r\n";
+            x += $"Giới tính: {s}";
             txtKetQua.Text = x;
         }
 

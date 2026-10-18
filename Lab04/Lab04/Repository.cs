@@ -3,12 +3,10 @@
     public class Repository<T> where T : IEntity
     {
         private List<T> danhSach;
-
         public Repository()
         {
             danhSach = new List<T>();
         }
-
         public void Add(T phanTu)
         {
             danhSach.Add(phanTu);

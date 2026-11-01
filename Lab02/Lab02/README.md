@@ -14,9 +14,9 @@ Viết chương trình Console quản lý một mảng số nguyên. Chương tr
 
 ## Chức năng
 
-### 1. Giao diện chương trình
+### 1. Giao diện chính
 
-![Giao diện chương trình](docs/screenshots/Giao-dien-chuong-trinh.png)
+![Giao diện chính](docs/screenshots/Giao-dien-chuong-trinh.png)
 
 ### 2. Nhập mảng
 

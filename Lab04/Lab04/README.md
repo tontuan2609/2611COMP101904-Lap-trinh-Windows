@@ -49,6 +49,6 @@ Viết chương trình Console quản lý sản phẩm. Dữ liệu được lư
 ![Thoát](docs/screenshots/Thoat.png)
 
 ## Cách chạy
-1. Mở file `Lab03.sln` bằng Visual Studio.
+1. Mở file `Lab04.sln` bằng Visual Studio.
 2. Build solution.
 3. Chạy project (nhấn `F5` hoặc nút `Start`).

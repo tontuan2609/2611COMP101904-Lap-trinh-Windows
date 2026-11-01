@@ -12,19 +12,19 @@ Xây dựng ứng dụng Windows Forms cho phép nhập thông tin cá nhân c�
 
 ### 1. Giao diện chương trình
 
-![Giao diện chương trình](Lab01/Lab01/docs/screenshots/Giao diện chương trình.png)
+![Giao diện chương trình](Lab01/Lab01/docs/screenshots/Giao-dien-chuong-trinh.png)
 
 ### 2. Hiển thị
 
-![Hiển thị](Lab01/Lab01/docs/screenshots/Hiển thị.png)
+![Hiển thị](docs/screenshots/Hien-thi.png)
 
 ### 3. Xóa
 
-![Xóa](Lab01/Lab01/docs/screenshots/Xóa.png)
+![Xóa](docs/screenshots/Xoa.png)
 
 ### 4. Thoát
 
-![Thoát](Lab01/Lab01/docs/screenshots/Thoát.png)
+![Thoát](docs/screenshots/Thoat.png)
 
 ## Cách chạy
 1. Mở file `Lab01.sln` bằng Visual Studio.

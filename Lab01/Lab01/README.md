@@ -12,7 +12,7 @@ Xây dựng ứng dụng Windows Forms cho phép nhập thông tin cá nhân c�
 
 ### 1. Giao diện chương trình
 
-![Giao diện chương trình](Lab01/Lab01/docs/screenshots/Giao-dien-chuong-trinh.png)
+![Giao diện chương trình](docs/screenshots/Giao-dien-chuong-trinh.png)
 
 ### 2. Hiển thị
 

@@ -3,7 +3,9 @@
 ## Thông tin sinh viên
 
 ‐ Họ tên: Tôn Thất Tuấn
+
 ‐ MSSV: 47.01.104.229
+
 ‐ Lớp: 49.01.CNTT.B
 
 ## Mô tả

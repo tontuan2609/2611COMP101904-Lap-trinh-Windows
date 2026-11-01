@@ -15,9 +15,11 @@ Sinh viên xây dựng Form quản lý lớp học. Dữ liệu lớp học đư
 ## Chức năng
 
 ### 1. Giao diện chính
+
 ![Giao diện chính](docs/screenshots/Giao-dien-chinh.png)
 
 ### 2. Thêm
+
 ![Thêm](docs/screenshots/Them.png)
 
 ### 3. Sửa

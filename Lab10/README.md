@@ -14,11 +14,14 @@ Xây dựng cơ sở dữ liệu EduManagerDB cho ứng dụng quản lý sinh v
 
 ## Truy vấn chính
 
-![Truy vấn chính 1](docs/screenshots/Anh-1.png)
+### Ảnh 1
 
-![Truy vấn chính 2](docs/screenshots/Anh-2.png)
+![Ảnh 1](docs/screenshots/Anh-1.png)
 
+### Ảnh 2
+
+![Ảnh 2](docs/screenshots/Anh-2.png)
 
 ## Cách chạy
 1. Mở file `03_Queries.sql` bằng SQL Server Management Studio.
-2. Chạy file (nhấn `Execute` hoặc nút `Alt + X`).
+2. Chạy file (nhấn `Alt + X` hoặc nút `Execute`).
